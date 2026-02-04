@@ -10,7 +10,7 @@ Buildings
 	*pcbMiner|pcbMiners
 		name:PCB Miner|PCB Miners
 		desc:It might mine bitcoin if you pray hard nough!
-		on click:yield 1 minicoin
+		on tick:yield 1 minicoin
 
 Resources
     *minicoin|minicoins
