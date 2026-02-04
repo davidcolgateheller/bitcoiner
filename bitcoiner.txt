@@ -6,11 +6,12 @@ Let's make a game!
 Settings
 	background:https://file.garden/aYKWJDYLgge4re1k/background.jpg
 
-Buttons
-	*Bitcoin|Bitcoins
-		name:Mine Bitcoin
-		desc:Mine some bitcoin to increase your riches!
+Buildings
+	*pcbMiner|pcbMiners
+		name:PCB Miner|PCB Miners
+		desc:It might mine bitcoin if you pray hard nough!
 		on click:yield 1 minicoin
+
 Resources
     *minicoin|minicoins
         name:Mini Coin|Mini Coins
