@@ -1,0 +1,13 @@
+Let's make a game!
+	name:Bitcoiner
+	by:DtheHeller
+	desc:Cointrepreneur
+
+Settings
+	background:https://file.garden/aYKWJDYLgge4re1k/background.jpg
+
+Buttons
+	*Bitcoin|Bitcoins
+		name:Mine Bitcoin
+		desc:Mine some bitcoin to increase your riches!
+		on click:yield 1 minicoin
