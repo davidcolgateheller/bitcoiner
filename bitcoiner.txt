@@ -12,6 +12,6 @@ Buttons
 		desc:Mine some bitcoin to increase your riches!
 		on click:yield 1 minicoin
 Resources
-    *minicoin
-        name:Mini Coin
-        desc:One one-thousandth of a bitcoin
+    *minicoin|minicoins
+        name:Mini Coin|Mini Coins
+        desc:One one-thousandth of a bitcoin!
