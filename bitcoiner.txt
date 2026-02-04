@@ -11,6 +11,7 @@ Buildings
 		name:PCB Miner|PCB Miners
 		desc:It might mine bitcoin if you pray hard nough!
 		on tick:yield 1 minicoin
+        cost:30 minicoin
 
 Resources
     *minicoin|minicoins
