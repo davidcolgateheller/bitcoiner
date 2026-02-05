@@ -13,6 +13,12 @@ Buildings
 		on tick:yield 1 minicoin
         cost:30 minicoin
 
+Buttons
+    *miniCoinMaker|miniCoinMaker
+        name:Bitcoin
+        desc:Try to mine bitcoin by doing calculations on paper!
+        on click:yield 1 minicoin
+
 Resources
     *minicoin|minicoins
         name:Mini Coin|Mini Coins
