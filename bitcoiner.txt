@@ -4,7 +4,7 @@ Let's make a game!
 	desc:Cointrepreneur
 
 Settings
-	background:https://file.garden/aYKWJDYLgge4re1k/background.jpg
+	background:./background.jpg
 
 Buildings
 	*pcbMiner|pcbMiners
