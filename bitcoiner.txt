@@ -18,6 +18,7 @@ Buttons
         name:Bitcoin
         desc:Try to mine bitcoin by doing calculations on paper!
         on click:yield 1 minicoin
+        icon:https://file.garden/aYKWJDYLgge4re1k/bitcoin-cryptocurrency-in-pixel-art-style-illustration-free-png.webp
 
 Resources
     *minicoin|minicoins
